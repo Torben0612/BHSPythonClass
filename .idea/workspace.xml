@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="project init">
-      <change afterPath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" afterDir="false" />
+    <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="chanlengedatatype-1.02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-DataTypes/DataTypesLab-1.02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706708316323</updated>
       <workItem from="1706708322556" duration="2194000" />
-      <workItem from="1706793743857" duration="2411000" />
+      <workItem from="1706793743857" duration="3979000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <option name="closed" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706710487664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chanlengedatatype-1.02">
+      <option name="closed" value="true" />
+      <created>1706796189544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706796189544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,10 +112,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project init" />
-    <option name="LAST_COMMIT_MESSAGE" value="project init" />
+    <MESSAGE value="chanlengedatatype-1.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="chanlengedatatype-1.02" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$DataTypesChallenge_1_02.coverage" NAME="DataTypesChallenge-1.02 Coverage Results" MODIFIED="1706796148194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
+    <SUITE FILE_PATH="coverage/pythonProject$DataTypesChallenge_1_02.coverage" NAME="DataTypesChallenge-1.02 Coverage Results" MODIFIED="1706798773740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$DataTypesLab_1_02.coverage" NAME="DataTypesLab-1.02 Coverage Results" MODIFIED="1706710294516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$DataTypes_1_02.coverage" NAME="DataTypes-1.02 Coverage Results" MODIFIED="1706709220425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
   </component>
