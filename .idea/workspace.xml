@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="chanlengedatatype-1.02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-DataTypes/DataTypes-1.01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-DataTypes/DataTypesChallenge-1.02.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-DataTypes/DataTypesLab-1.02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706708316323</updated>
       <workItem from="1706708322556" duration="2194000" />
-      <workItem from="1706793743857" duration="3979000" />
+      <workItem from="1706793743857" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <option name="closed" value="true" />
@@ -104,11 +105,30 @@
       <option name="project" value="LOCAL" />
       <updated>1706796189544</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chanlengedatatype-1.02">
+      <option name="closed" value="true" />
+      <created>1706798790295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706798790295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project init" />
