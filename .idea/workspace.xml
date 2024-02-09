@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/1-DataTypes/1.04GenieLab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-DataTypes/madlibproject/Unit1MadLibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-DataTypes/madlibproject/story.txr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,27 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.04GenieLab.executor": "Run",
-    "Python.DataTypes-1.02.executor": "Run",
-    "Python.DataTypesChallenge-1.02.executor": "Run",
-    "Python.DataTypesLab-1.02.executor": "Run",
-    "Python.PrintingLab1.03.executor": "Run",
-    "Python.UserInputsAndVariables.executor": "Run",
-    "Python.datatype1.03.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/torbe/OneDrive/Desktop/Python Class/PythonCode/pythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.04GenieLab.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypes-1.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypesChallenge-1.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypesLab-1.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintingLab1.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UserInputsAndVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datatype1.03.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/torbe/OneDrive/Desktop/Python Class/PythonCode/pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\torbe\OneDrive\Desktop\Python Class\PythonCode\pythonProject\1-DataTypes\madlibproject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +93,8 @@
       <workItem from="1706880225683" duration="2600000" />
       <workItem from="1707227508928" duration="1423000" />
       <workItem from="1707310968906" duration="3465000" />
-      <workItem from="1707398482538" duration="1877000" />
+      <workItem from="1707398482538" duration="2244000" />
+      <workItem from="1707485409075" duration="2185000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <option name="closed" value="true" />
@@ -153,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707315194926</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update code">
+      <option name="closed" value="true" />
+      <created>1707400373730</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707400373730</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update code">
+      <option name="closed" value="true" />
+      <created>1707400425070</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707400425070</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
