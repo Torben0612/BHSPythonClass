@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/1-DataTypes/madlibproject/Unit1MadLibs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-DataTypes/madlibproject/story.txr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-DataTypes/madlibproject/story.txr" beforeDir="false" afterPath="$PROJECT_DIR$/1-DataTypes/madlibproject/story.txr" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,8 @@
       <workItem from="1707227508928" duration="1423000" />
       <workItem from="1707310968906" duration="3465000" />
       <workItem from="1707398482538" duration="2244000" />
-      <workItem from="1707485409075" duration="2185000" />
+      <workItem from="1707485409075" duration="2323000" />
+      <workItem from="1707574950543" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <option name="closed" value="true" />
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707400425070</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update code">
+      <option name="closed" value="true" />
+      <created>1707487970860</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707487970860</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
