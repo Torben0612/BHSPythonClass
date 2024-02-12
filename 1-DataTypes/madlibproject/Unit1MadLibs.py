@@ -1,5 +1,7 @@
+#Instuctions
 print("The Interview MadLib\n" + "I will ask you for nouns, verbs, adjectives, proper nouns, names, colors, clothing, \nlocations. ect. Using those words I will create an unexpected story for you!")
 
+#Variables
 adj1= input("Enter a adjective: ")
 place1 = input("Enter a Place: ")
 color1 = input("Enter a color: ")
@@ -12,8 +14,8 @@ transport = input("Enter a form of transportation : ")
 place2 = input("Enter a Place: ")
 place3 = input("Enter a Place: ")
 number1 = input("Enter a number: ")
-number1 = int(number1)**2
-number1 = str(number1)
+number1 = int(number1)**2 #convert the number input to a int and math modifed it
+number1 = str(number1) #convert the modfifed int back to a string
 time = input("Enter a time: ")
 verb1 = input("Enter a verb: ")
 propernoun1 = input("Enter a proper noun: ")
@@ -28,6 +30,7 @@ facialexpress = input("Enter a facial expression: ")
 adj4 = input("Enter a adjective: ")
 yesno = input("Enter yes or no: ")
 
+#Complete MadLib
 print("The Interview:\n")
 print("You are getting ready to go to a " + adj1 + "job interview at " + place1 + " you put on,\n" + color1 +
       " " + clothing1 + ", " + color2 + " " + clothing2 + ", and a " + color3 + " " + clothing3 + "\n" +
