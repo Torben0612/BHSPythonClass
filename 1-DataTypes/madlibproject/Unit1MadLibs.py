@@ -1,6 +1,6 @@
 #Instuctions
 print("The Interview MadLib\n" + "I will ask you for nouns, verbs, adjectives, proper nouns, names, colors, clothing, \nlocations. ect. Using those words I will create an unexpected story for you!")
-
+    
 #Variables
 adj1= input("Enter a adjective: ")
 place1 = input("Enter a Place: ")
