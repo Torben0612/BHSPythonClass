@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="madlib project">
-      <change afterPath="$PROJECT_DIR$/2-Binary_and_Hexadecimal/2.01-Binary_and_Hexadecimal_Notes.py" afterDir="false" />
+    <list default="true" id="eaa9fc8a-3f62-4c89-a342-05b34516e185" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2-Binary_and_Hexadecimal/2.01binary_and_Hexadecimal_LAB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Binary_and_Hexadecimal/2.01-Binary_and_Hexadecimal_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-Binary_and_Hexadecimal/2.01-Binary_and_Hexadecimal_Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.1.04GenieLab.executor": "Run",
     "Python.1.executor": "Run",
     "Python.2.01-Binary_and_Hexadecimal_Notes.executor": "Run",
+    "Python.2.01binary_and_Hexadecimal_LAB.executor": "Run",
     "Python.DataTypes-1.02.executor": "Run",
     "Python.DataTypesChallenge-1.02.executor": "Run",
     "Python.DataTypesLab-1.02.executor": "Run",
@@ -102,7 +104,8 @@
       <workItem from="1707743528546" duration="3575000" />
       <workItem from="1707776313031" duration="529000" />
       <workItem from="1707917102509" duration="1496000" />
-      <workItem from="1708003168682" duration="2246000" />
+      <workItem from="1708003168682" duration="2455000" />
+      <workItem from="1708089716232" duration="1273000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <option name="closed" value="true" />
@@ -224,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708003192582</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="madlib project">
+      <option name="closed" value="true" />
+      <created>1708005469512</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708005469512</updated>
+    </task>
+    <task id="LOCAL-00017" summary="madlib story.py">
+      <option name="closed" value="true" />
+      <created>1708005544069</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708005544069</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,19 +267,21 @@
     <MESSAGE value="update code" />
     <MESSAGE value="update story.txt" />
     <MESSAGE value="madlib project" />
-    <option name="LAST_COMMIT_MESSAGE" value="madlib project" />
+    <MESSAGE value="madlib story.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="madlib story.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$2_01_Binary_and_Hexadecimal_Notes.coverage" NAME="2.01-Binary_and_Hexadecimal_Notes Coverage Results" MODIFIED="1708005433226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-Binary_and_Hexadecimal" />
+    <SUITE FILE_PATH="coverage/pythonProject$2_01_Binary_and_Hexadecimal_Notes.coverage" NAME="2.01-Binary_and_Hexadecimal_Notes Coverage Results" MODIFIED="1708090054874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-Binary_and_Hexadecimal" />
+    <SUITE FILE_PATH="coverage/pythonProject$2_01binary_and_Hexadecimal_LAB.coverage" NAME="2.01binary_and_Hexadecimal_LAB Coverage Results" MODIFIED="1708091499237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-Binary_and_Hexadecimal" />
+    <SUITE FILE_PATH="coverage/pythonProject$DataTypesChallenge_1_02.coverage" NAME="DataTypesChallenge-1.02 Coverage Results" MODIFIED="1706798773740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
+    <SUITE FILE_PATH="coverage/pythonProject$DataTypes_1_02.coverage" NAME="DataTypes-1.02 Coverage Results" MODIFIED="1706709220425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1707745357744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes/madlibproject" />
     <SUITE FILE_PATH="coverage/pythonProject$datatype1_03.coverage" NAME="datatype1.03 Coverage Results" MODIFIED="1706881544568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$1.coverage" NAME="1 Coverage Results" MODIFIED="1707745957735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes/madlibproject" />
-    <SUITE FILE_PATH="coverage/pythonProject$DataTypesChallenge_1_02.coverage" NAME="DataTypesChallenge-1.02 Coverage Results" MODIFIED="1706798773740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$PrintingLab1_03.coverage" NAME="PrintingLab1.03 Coverage Results" MODIFIED="1707314612504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$Unit1MadLibs.coverage" NAME="Unit1MadLibs Coverage Results" MODIFIED="1707747923104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes/madlibproject" />
     <SUITE FILE_PATH="coverage/pythonProject$DataTypesLab_1_02.coverage" NAME="DataTypesLab-1.02 Coverage Results" MODIFIED="1706710294516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$1_04GenieLab.coverage" NAME="1.04GenieLab Coverage Results" MODIFIED="1707400279984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
-    <SUITE FILE_PATH="coverage/pythonProject$DataTypes_1_02.coverage" NAME="DataTypes-1.02 Coverage Results" MODIFIED="1706709220425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
     <SUITE FILE_PATH="coverage/pythonProject$UserInputsAndVariables.coverage" NAME="UserInputsAndVariables Coverage Results" MODIFIED="1707315109030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes" />
-    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1707745357744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-DataTypes/madlibproject" />
   </component>
 </project>
