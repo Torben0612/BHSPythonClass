@@ -6,8 +6,8 @@ yearslived = int(input("How many years have you lived in us?"))
 yearslivedok = yearslived >= 14
 print("You have been a resident for at least 14 years:", yearslivedok)
 
-natborn = 
-
+natborn = input("Are you a Natual Born Citizens:")
+natborn
 
 #Part III
 print("Give me your height by giving total feed and then on the next prompt the remaining inches")
