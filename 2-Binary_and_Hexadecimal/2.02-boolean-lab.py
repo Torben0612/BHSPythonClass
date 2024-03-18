@@ -18,3 +18,6 @@ heightfeet * 12
 totalheight = heightfeet + heightinch
 totalheight == 5 
 print("You are tall enough to ride the rolar coaster:", totalheight == 50 or totalheight > 50)
+
+age = int(input("How old are you? "))
+
